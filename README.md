@@ -1,4 +1,5 @@
-![logo](https://i.pinimg.com/564x/4c/44/39/4c443992f6106654fc270b3ca708d29e.jpg)
+<img src="https://i.pinimg.com/564x/4c/44/39/4c443992f6106654fc270b3ca708d29e.jpg" alt="logo" style="width: 100%;">
+
 <h1 align="center">Hi 👋, I'm Devananth Kalarickal</h1>
  <p id="line1">📫 How to reach me: <a href="https://www.linkedin.com/in/devananth-kalarickal" target="_blank">LinkedIn</a></p>
         <p id="line2">-🔭 I’m currently working on a website to showcase my projects in web development.</p>
